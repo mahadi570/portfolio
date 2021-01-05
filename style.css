@@ -1,20 +1,16 @@
 body{
     font-family: 'Roboto', sans-serif;
-   
 }
 h1{
     font-size: 50px;
 }
-.name-highlight{
+.highlighted{
     color: orange;
 }
-
-.firstdiv{
-    width: 50%;
+.first{
+    width: 40%;
     float: left;
-
 }
-.seconddiv{
+img{
     width: 50%;
-    float : left;
 }
