@@ -11,6 +11,6 @@ h1{
     width: 40%;
     float: left;
 }
-img{
-    width: 50%;
+.second img{
+    width: 100%;
 }
