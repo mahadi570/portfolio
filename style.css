@@ -10,8 +10,8 @@ h1{
 .first{
     width: 40%;
     float: left;
-    margin: 5%;
-    padding: 2%;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .second img{
     width: 100%;
